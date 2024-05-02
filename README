@@ -1,0 +1,19 @@
+Programming: 4
+
+Language: C
+
+1.To run createknapsack use the below command
+    make createkn01
+    ./createkn01 <output-file-name>.txt
+
+2.To run bruteforce algorithm use the below command
+    make bruteforce
+    ./bruteforce <input-file-name>.txt
+
+3.To run refinedknapsack algorithm use the below command
+    make dynpro
+    ./dynpro <input-file-name>.txt
+
+4.To run igreedy algorithm use the below command
+    make igreedy
+    ./igreedy <input-file-name>.txt
